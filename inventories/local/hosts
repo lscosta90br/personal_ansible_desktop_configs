@@ -1,0 +1,2 @@
+[local]
+wks-lc ansible_host=192.168.3.42 
